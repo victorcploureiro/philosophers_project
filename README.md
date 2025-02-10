@@ -10,15 +10,7 @@ Clone this repository:
 git clone https://github.com/victorcploureiro/philosophers_project.git philosophers
 ```
 
-Then compile the files as following:
-
-#### Mandatory:
-
-Sorts a quantity of numbers informed as parameters and prints the moves in the standard output.
-
-```shell
-make
-```
+Then compile the files with make command.
 
 #### Usage
 
